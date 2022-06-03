@@ -1,0 +1,12 @@
+C:\EGMS\Shared\bin\Debug\net6.0\EGMS.Shared.deps.json
+C:\EGMS\Shared\bin\Debug\net6.0\EGMS.Shared.dll
+C:\EGMS\Shared\bin\Debug\net6.0\EGMS.Shared.pdb
+C:\EGMS\Shared\obj\Debug\net6.0\EGMS.Shared.csproj.AssemblyReference.cache
+C:\EGMS\Shared\obj\Debug\net6.0\EGMS.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\EGMS\Shared\obj\Debug\net6.0\EGMS.Shared.AssemblyInfoInputs.cache
+C:\EGMS\Shared\obj\Debug\net6.0\EGMS.Shared.AssemblyInfo.cs
+C:\EGMS\Shared\obj\Debug\net6.0\EGMS.Shared.csproj.CoreCompileInputs.cache
+C:\EGMS\Shared\obj\Debug\net6.0\EGMS.Shared.dll
+C:\EGMS\Shared\obj\Debug\net6.0\refint\EGMS.Shared.dll
+C:\EGMS\Shared\obj\Debug\net6.0\EGMS.Shared.pdb
+C:\EGMS\Shared\obj\Debug\net6.0\ref\EGMS.Shared.dll
